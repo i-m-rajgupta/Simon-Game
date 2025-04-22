@@ -61,7 +61,7 @@ div.addEventListener("click",function(event){
             }
         } else {
             alert("You lose");
-            window.location.href = "index2.html";
+            window.location.href = "index.html";
            return;
         }
     }else {
